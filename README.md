@@ -8,11 +8,11 @@ A robust automation pipeline designed to simulate end-to-end account creation wo
 
 ## 🖼️ Preview
 
-### Welcome Interface
-![Welcome Page](https://imgur.com/a/t9zvN5s)
+### Welcome Interface 
+![Welcome Interface](https://i.imgur.com/KKbWTAM.png) 
 
-### Sample Output (Account Created)
-![Sample Account](https://imgur.com/HZVwWTO)
+### Sample Output (Account Created) 
+![Account Created](https://i.imgur.com/HZVwWTO.png)
 
 ---
 
